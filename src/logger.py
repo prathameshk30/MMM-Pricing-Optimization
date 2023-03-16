@@ -15,3 +15,8 @@ logging.basicConfig(
 
 
 )
+
+## Checking the file created using main function
+
+# if __name__=="__main__":
+#     logging.info("worked !!")
