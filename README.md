@@ -1,4 +1,5 @@
 # Text-Similarity-NLU
+Training-the-model
 This project will help to understand the basics of NLP. The main goal of  this project is to understand the different methods used in measuring the similarity of a given text data. 
 The need to compute teh similarity between texts arises due to:-
 1) Search Engines:- need to model the relevance of a document to a query, beyond the overlap in words between the two. For instance, question-and-answer sites such as Quora or Stackoverflow need to determine whether a question has already been asked before.
