@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-name='mlproject',
+name='text_similarity',
 version='0.0.1',
 author='Prathamesh',
 author_email='prathameshk7114@gmail.com',
