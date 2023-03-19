@@ -19,3 +19,5 @@ In this competition, you will train your models on a novel semantic similarity d
 
 Can you build a model to match phrases in order to extract contextual information, thereby helping the patent community connect the dots between millions of patent documents?
 
+### Dataset:-
+https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview
