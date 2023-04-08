@@ -9,3 +9,6 @@
 
 ### Dataset:-
 https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview
+
+### All the Analysis shall be done in this repository
+https://github.com/prathameshk30/MMM-Pricing-Optimization/blob/main/Jupyter/MMM_budget_optimization%20(1).ipynb
